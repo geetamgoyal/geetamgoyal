@@ -75,9 +75,9 @@ I'm always open to learning opportunities, collaborative projects, and software 
 
 ## 🤝 Let's Connect
 
-- GitHub: [Geetam Goyal](https://github.com/geetamgoyal)
+- GitHub:   [Geetam Goyal](https://github.com/geetamgoyal)
 - LinkedIn: [Geetam Goyal](www.linkedin.com/in/geetam-goyal-60341a36b)
-- Email: Add your professional email address
+- Email:goyalgeetam111@gmail.com
 
 ---
 
