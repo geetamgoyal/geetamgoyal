@@ -24,7 +24,7 @@ Currently, I'm preparing for **SDE and software development internships**, with 
 ![C++](https://img.shields.io/badge/C%2B%2B-fundamentals-00599C?logo=cplusplus&logoColor=white)
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5- basics-E34F26?logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-basics-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-basics-1572B6?logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-learning-20232A?logo=react&logoColor=61DAFB)
 
