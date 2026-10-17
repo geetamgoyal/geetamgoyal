@@ -1,83 +1,82 @@
-# Hi there, I'm a BTech Student 👋
+# Hi, I'm Geetam Goyal 👋
 
-### Aspiring Software Development Engineer | Java | Spring Boot | Full-Stack Development
+### Aspiring Software Development Engineer | Java • Spring Boot • Full-Stack Development
 
-I'm a BTech student at **Ajay Kumar Garg Engineering College (AKGEC)**, focused on building strong software engineering fundamentals and developing practical applications.
+I'm a BTech student at **Ajay Kumar Garg Engineering College (AKGEC), Ghaziabad**, focused on developing strong problem-solving skills and building practical software.
 
-Currently, I'm working towards becoming an **SDE / Backend Engineer**, with a focus on Java, Data Structures & Algorithms, Spring Boot, and full-stack development.
+Currently, I'm preparing for **SDE and software development internships**, with a learning focus on Java, Data Structures & Algorithms, Spring Boot backend development, and full-stack applications.
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Pursuing BTech at AKGEC, Ghaziabad.
+- 🎓 BTech student at AKGEC, Ghaziabad.
 - ☕ Learning Java and practising Data Structures & Algorithms.
-- 🌱 Building backend development skills using **Java and Spring Boot**.
-- 💻 Exploring full-stack development with HTML, CSS, JavaScript, React, REST APIs, and SQL databases.
-- 🚆 Contributing to **Aagaman**, a dynamic railway ETA forecasting project.
-- 🎯 Goal: Become internship-ready for Software Development Engineer and Backend Developer roles.
-- 📚 Believe in learning by building, solving problems, and improving consistently.
+- 🌱 Building backend development skills with **Java and Spring Boot**.
+- 🌐 Exploring full-stack development with HTML, CSS, JavaScript, React, REST APIs, and SQL.
+- 🚆 Working with a team on **Aagaman**, a dynamic railway ETA forecasting project.
+- 🎯 Current goal: become internship-ready for SDE, backend, and full-stack roles.
+- 📌 I enjoy learning by building, debugging, collaborating, and improving one step at a time.
 
-## 🛠️ Tech Stack
+## 🧰 Technology Stack
 
-**Languages**
-- Java
-- JavaScript
-- C++ (academic and programming practice)
+### Languages
+![Java](https://img.shields.io/badge/Java-learning-ED8B00?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-learning-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-fundamentals-00599C?logo=cplusplus&logoColor=white)
 
-**Frontend**
-- HTML5
-- CSS3
-- JavaScript
-- React
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5- basics-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-basics-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-learning-20232A?logo=react&logoColor=61DAFB)
 
-**Backend & Databases**
-- Java Spring Boot — learning and building
-- REST APIs
-- SQL
-- Spring Data JPA — learning
+### Backend & Databases
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-learning-6DB33F?logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-learning-264653)
+![SQL](https://img.shields.io/badge/SQL-learning-4479A1?logo=mysql&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-learning-6DB33F)
 
-**Tools**
-- Git & GitHub
-- VS Code
-- IntelliJ IDEA
-- Postman
-- Vite
+### Tools
+![Git](https://img.shields.io/badge/Git-version%20control-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-code-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API%20testing-FF6C37?logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-editor-007ACC?logo=visualstudiocode&logoColor=white)
 
-## 📌 Featured Project
+> The badges indicate my current learning focus, not expert-level proficiency. I'll update this section as I gain hands-on experience.
 
-### 🚆 Aagaman — Dynamic Railway ETA Forecasting System
+## 🚆 Featured Project
 
-A project focused on forecasting train arrival times using dynamic data and predictive modelling.
+### [Aagaman — Dynamic Railway ETA Forecasting System](https://github.com/Ashit-Mishra/eta)
 
-- Working towards reliable frontend and backend integration.
+A team project focused on forecasting train arrival times using dynamic data and predictive modelling.
+
+- Contributing to project development and frontend/backend integration.
 - Exploring API integration and real-time information flows.
-- Collaborating on a system involving frontend, backend, and ML components.
+- Collaborating across frontend, backend, and ML components.
 
-**Tech:** React, JavaScript/TypeScript, Java Spring Boot, APIs, and machine learning components.
+**Project note:** This is collaborative work. My specific contributions should be understood from the code, commits, and team responsibilities documented in the repository.
 
-> Project technologies and contributions vary by team member. See the repository for implementation details.
+## 📚 Current Learning Roadmap
 
-## 📈 My Current Learning Roadmap
-
-- [ ] Strengthen Java fundamentals and OOP.
+- [ ] Strengthen Java fundamentals and object-oriented programming.
 - [ ] Practise DSA consistently using Java.
-- [ ] Learn Spring Boot and REST API development.
-- [ ] Work with SQL, Spring Data JPA, and database relationships.
-- [ ] Learn backend validation, exception handling, testing, and security basics.
-- [ ] Build and deploy full-stack applications.
+- [ ] Build REST APIs using Spring Boot.
+- [ ] Learn SQL, Spring Data JPA, and relational database design.
+- [ ] Practise validation, exception handling, testing, and backend security basics.
+- [ ] Connect a frontend to a Spring Boot backend.
+- [ ] Deploy and document full-stack projects.
 - [ ] Revise DBMS, Operating Systems, and Computer Networks.
-- [ ] Prepare for SDE internship coding assessments and interviews.
+- [ ] Prepare for SDE internship assessments and interviews.
 
-## 💡 What I'm Working Towards
+## 🎯 What I'm Working Towards
 
-My goal is to combine problem-solving skills with practical software development to build reliable, maintainable applications and contribute to real-world engineering projects.
+My aim is to combine problem-solving with practical software development to build reliable, maintainable applications and contribute meaningfully to engineering teams.
 
-I'm always open to learning opportunities, collaborative projects, and software development internships.
+I'm open to **software development internships, collaborative projects, and opportunities to learn from other developers**.
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-- GitHub:   [Geetam Goyal](https://github.com/geetamgoyal)
-- LinkedIn: [Geetam Goyal](www.linkedin.com/in/geetam-goyal-60341a36b)
-- Email:goyalgeetam111@gmail.com
+- **GitHub:** [@geetamgoyal](https://github.com/geetamgoyal)
+- **LinkedIn:** [Geetam Goyal](https://www.linkedin.com/in/geetam-goyal-60341a36b/)
+- **Email:** [goyalgeetam111@gmail.com](mailto:goyalgeetam111@gmail.com)
 
 ---
 
